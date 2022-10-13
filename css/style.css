@@ -1,0 +1,27 @@
+body {
+  background-color: aqua;
+}
+
+.box{
+  display: flex;
+  width: 100px;
+  height: 100px;
+  border-radius: 15px;
+  background-color: rgba(47, 0, 255, 0.555);
+  align-items: center;
+  justify-content: center;
+  margin: 5px 10px;
+  border: 2px solid rgba(0, 0, 0, 0.486);
+  
+  
+}
+
+.fizz{
+  background-color: rgba(223, 226, 43, 0.514);
+}
+.buzz{
+  background-color: rgba(137, 43, 226, 0.514);
+}
+.fizzBuzz{
+  background-color: rgba(160, 95, 95, 0.705);
+}
